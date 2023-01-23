@@ -1,0 +1,11 @@
+:root {
+    --min-width: 320px;
+    --max-width: 1440px;
+    --header-height: 72px
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
